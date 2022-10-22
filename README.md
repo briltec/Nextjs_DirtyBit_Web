@@ -71,4 +71,4 @@ Please adhere to this project's `code of conduct`.
 
 ## Feedback
 
-If you have any feedback, please reach out to me at bruceadams9566@gmail.com
+If you have any feedback, please reach out to me at bruceadams6269@gmail.com
