@@ -21,7 +21,7 @@ It's an online coding platform for skill enhancement and students preparing for 
 
 ## Environment Variables
 
-To run this project, you will need to add the following environment variables you can contact me at bmohit980@gmail.com for these.
+To run this project, you will need to add the following environment variables you can contact me at palmerliu0625@gmail.com for these.
 
 `google client id`
 
@@ -34,7 +34,7 @@ To run this project, you will need to add the following environment variables yo
 Clone the project
 
 ```bash
-  git clone https://github.com/Mohitb07/DirtyBits-Next-Js.git
+  git clone https://github.com/briltec/Nextjs_DirtyBit_Web.git
 ```
 
 Go to the project directory
