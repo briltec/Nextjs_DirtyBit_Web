@@ -21,7 +21,7 @@ It's an online coding platform for skill enhancement and students preparing for 
 
 ## Environment Variables
 
-To run this project, you will need to add the following environment variables you can contact me at palmerliu0625@gmail.com for these.
+To run this project, you will need to add the following environment variables you can contact me for these.
 
 `google client id`
 
